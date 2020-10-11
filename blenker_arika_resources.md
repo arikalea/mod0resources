@@ -1,0 +1,4 @@
+-the videos of our sessions have been very helpful to refer to
+-Youtube videos
+-stackoverflow
+-Mod 0 slack channel
